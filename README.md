@@ -33,6 +33,7 @@ The following algorithms / methods have been invovled.
 * Feature Importances - Extract directly from the trained models, for example, tree-based models.
 * Chi-Squared Test - Uses statistical tests to select the most relevant features based on their relationship with the target variable
 * Permutation Importance - Measures the importance of features by evaluating the effect of randomly shuffling the feature values on the model's performance
+* Recursive Feature Elimination (RFE) - An iterative feature selection method that recursively removes the least important features based on the estimator's coefficients or feature importances until the desired number of features is reached.
 
 **Algorithms**
 
