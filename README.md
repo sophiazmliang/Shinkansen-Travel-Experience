@@ -11,6 +11,12 @@ In the survey, each passenger was explicitly asked whether they were satisfied w
 
  The objective of this problem is to understand which parameters play an important role in swaying passenger feedback towards a positive scale. You are provided test data containing the travel data and the survey data of passengers. Both the test data and the train data are collected at the same time and belong to the same population.
 
+ I also documented my journey, challenges, and learnings during this Hackathon in an article on Medium. 
+
+You can read the full article here. https://medium.com/@sophiazmliang/accelerating-data-science-skills-my-hackathon-journey-with-chatgpt-6ced31215a5b
+
+I’d love to hear your thoughts, feedback, and any similar experiences you’ve had. Feel free to leave a comment or ask any questions. Let's learn and grow together!
+
 ## **Key Takeaways**
 
 Hackathon
